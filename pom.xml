@@ -31,7 +31,7 @@
         <httpclient.version>4.5.14</httpclient.version>
         <jackson.databind.version>2.14.1</jackson.databind.version>
         <jackson.version>2.14.1</jackson.version>
-        <jakarta.validation.version>2.0.2</jakarta.validation.version>
+        <jakarta.validation.version>3.1.1</jakarta.validation.version>
         <json.simple.version>1.1.1</json.simple.version>
         <json.version>20231013</json.version>
         <mongojack.version>2.10.1</mongojack.version>
