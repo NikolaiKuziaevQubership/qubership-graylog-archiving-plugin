@@ -33,7 +33,7 @@
         <jackson.version>2.14.1</jackson.version>
         <jakarta.validation.version>2.0.2</jakarta.validation.version>
         <json.simple.version>1.1.1</json.simple.version>
-        <json.version>20231013</json.version>
+        <json.version>20250107</json.version>
         <mongojack.version>2.10.1</mongojack.version>
         <shiro.core.version>1.13.0</shiro.core.version>
         <swagger.version>1.5.13</swagger.version>
